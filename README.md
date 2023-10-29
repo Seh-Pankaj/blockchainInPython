@@ -4,10 +4,10 @@ It is a simple blockchain developed in Python. It's blocks contain 4 members - i
 
 # Screenshots
 
-## To get the whole chain
+## To mine a block
 ![image](https://github.com/Seh-Pankaj/blockchainInPython/assets/94001076/e55826ba-7f65-40ec-a0cd-80226e0d64ef)
 
-## To mine a block
+## To get the whole chain
 ![image](https://github.com/Seh-Pankaj/blockchainInPython/assets/94001076/f5b13431-205a-409b-b39f-35a38e11cc5c)
 ![image](https://github.com/Seh-Pankaj/blockchainInPython/assets/94001076/ea33eb01-9658-412b-b313-263e90b8da0a)
 
